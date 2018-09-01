@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="face-cool.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1537"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-5.8305085"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#FFDD67"
+     d="M32 2c16.57 0 30 13.432 30 30S48.57 62 32 62C15.432 62 2 48.568 2 32S15.432 2 32 2"
+     id="path2"
+     style="fill:url(#Strips1_1);fill-opacity:1.0" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     fill="#494949"
+     d="M35.849 20.473c-2.198 1.098-5.497 1.098-7.697 0-2.349-1.204-5.22-1.977-8.655-2.279-3.357-.294-10.469-.284-14.028.968a9.875 9.875 0 0 0-1.198.527c-.219.111-.262.193-.262.604v.527c0 .992-.124.608.585 1.02 1.38.809 2.165 2.91 2.586 5.801.598 4.213 2.666 6.854 6.022 8.115a13.471 13.471 0 0 0 9.69-.105c1.691-.676 3.176-1.742 4.356-3.477 2.067-3.037 1.448-4.936 2.515-7.547.932-2.277 3.542-2.277 4.473 0 1.068 2.611.449 4.51 2.516 7.547 1.18 1.734 2.665 2.801 4.355 3.477a13.474 13.474 0 0 0 9.691.105c3.355-1.262 5.424-3.902 6.022-8.115.421-2.891 1.204-4.992 2.585-5.801.709-.411.586-.027.586-1.02v-.527c0-.41-.045-.492-.262-.604a9.87 9.87 0 0 0-1.199-.527c-3.559-1.252-10.67-1.262-14.026-.969-3.436.303-6.307 1.076-8.655 2.28"
+     id="path4" />
+  <path
+     fill="#664E27"
+     d="M44.584 42.279c-8.109 5.656-17.105 5.623-25.168 0-.97-.677-1.845.495-1.187 1.578 2.457 4.047 7.417 7.65 13.771 7.65s11.314-3.604 13.771-7.65c.659-1.083-.216-2.254-1.187-1.578z"
+     id="path6" />
+</svg>
