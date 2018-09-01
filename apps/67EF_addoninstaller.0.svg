@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="67EF_addoninstaller.0.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1559"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="22.858393"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg27" />
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#3889e9"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#5ea5fb"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="399.57144"
+     x2="399.57144"
+     xlink:href="#a"
+     y1="545.79797"
+     y2="517.79797" />
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="400.5119"
+     x2="400.69922"
+     y1="546.07446"
+     y2="517.77289">
+    <stop
+       offset="0"
+       stop-color="#4c93dd"
+       id="stop8" />
+    <stop
+       offset="1"
+       stop-color="#56c5fd"
+       id="stop10" />
+  </linearGradient>
+  <linearGradient
+     gradientUnits="userSpaceOnUse"
+     x1="-.5"
+     x2="536"
+     xlink:href="#a"
+     y1="267.75"
+     y2="267.75"
+     id="linearGradient13" />
+  <g
+     transform="matrix(1.406155152709 0 0 1.406155152709 -539.359089226566 -723.854482260268)"
+     id="g23"
+     style="fill:url(#Strips1_1);fill-opacity:1.0">
+    <circle
+       cx="400.57138"
+       cy="531.79791"
+       fill="url(#b)"
+       r="0"
+       id="circle15"
+       style="fill:url(#Strips1_1);fill-opacity:1.0" />
+    <g
+       transform="matrix(1.117536624128 0 0 1.117536624128 -47.015292188816 -62.460177851153)"
+       id="g21"
+       style="fill:url(#Strips1_1);fill-opacity:1.0">
+      <circle
+         cx="400.57138"
+         cy="531.79791"
+         fill="url(#c)"
+         r="13.999958"
+         id="circle17"
+         style="fill:url(#Strips1_1);fill-opacity:1.0" />
+      <circle
+         cx="400.57144"
+         cy="531.79797"
+         fill="none"
+         r="13.999958"
+         id="circle19"
+         style="fill:url(#Strips1_1);fill-opacity:1.0" />
+    </g>
+  </g>
+  <path
+     d="m471.75 255h-38.25v-102c0-28.05-22.95-51-51-51h-102v-38.25c0-35.7-28.05-63.75-63.75-63.75s-63.75 28.05-63.75 63.75v38.25h-102c-28.05 0-51 22.95-51 51v96.9h38.25c38.25 0 68.85 30.6 68.85 68.85s-30.6 68.85-68.85 68.85h-38.25v96.9c0 28.05 22.95 51 51 51h96.9v-38.25c0-38.25 30.6-68.85 68.85-68.85s68.85 30.6 68.85 68.85v38.25h96.9c28.05 0 51-22.95 51-51v-102h38.25c35.7 0 63.75-28.05 63.75-63.75s-28.05-63.75-63.75-63.75z"
+     fill="#fff"
+     fill-opacity=".85"
+     transform="matrix(.041083100288 0 0 .041083100288 13.000008527229 12.999999713562)"
+     id="path25"
+     style="fill:#999999" />
+</svg>

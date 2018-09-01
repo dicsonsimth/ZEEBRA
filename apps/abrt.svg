@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="abrt.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern2270"
+       patternTransform="matrix(10,0,0,10,-1.2686939e-8,-10.443467)" />
+    <pattern
+       inkscape:isstock="true"
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1548"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient2268"
+       gradientUnits="userSpaceOnUse"
+       x1="220.51286"
+       y1="314.41678"
+       x2="217.88428"
+       y2="-128.3981"
+       gradientTransform="translate(-1.2686939e-8,-10.443467)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="21.336249"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g17" />
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#c52828"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#ff5454"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(.95323403 0 0 .95323401 12.503542 5.484169)"
+     gradientUnits="userSpaceOnUse"
+     x1="223.75114"
+     x2="223.75114"
+     xlink:href="#a"
+     y1="308.28076"
+     y2="-118.49677" />
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="220.51286"
+     x2="217.88428"
+     xlink:href="#a"
+     y1="314.41678"
+     y2="-128.3981" />
+  <g
+     stroke="url(#c)"
+     transform="matrix(.096856311854 0 0 .097376585563 1.802227560821 14.428500347276)"
+     id="g17">
+    <path
+       d="M 317.90518,-130.91575 H 138.02991 L 9.2003779,-2.0861648 V 180.21983 L 138.02991,306.61866 H 320.33593 L 449.16455,177.78908 V -2.0861648 Z"
+       id="path9"
+       style="fill:url(#pattern2270);fill-opacity:1;stroke:url(#linearGradient2268);stroke-width:14.31701088"
+       inkscape:connector-curvature="0" />
+    <g
+       fill="#fff"
+       fill-opacity=".852041"
+       stroke="url(#c)"
+       transform="matrix(1.6171928 0 0 1.6171928 -39.055967 -194.0582)"
+       id="g15">
+      <path
+         d="m147.281 131.031 7.25 83c .423 4.886 4.301 8.913 9.355 9.355 5.661.495 10.651-3.694 11.145-9.355l7.25-83c .078-.97.088-2.057 0-3.057-.844-9.666-9.363-16.816-19.028-15.973-9.665.845-16.816 9.366-15.972 19.03z"
+         fill="#fff"
+         fill-opacity=".852041"
+         stroke="url(#c)"
+         id="path11"
+         style="fill:#808080" />
+      <circle
+         cx="164.78101"
+         cy="243.03101"
+         fill="#fff"
+         fill-opacity=".852041"
+         r="14.5"
+         stroke="url(#c)"
+         id="circle13"
+         style="fill:#808080" />
+    </g>
+  </g>
+</svg>
