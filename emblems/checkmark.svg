@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="checkmark.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1537"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="11.04866"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     transform="translate(0 8.000001)"
+     id="g6"
+     style="fill:url(#Strips1_1);fill-opacity:1.0">
+    <path
+       d="m12-7c6.094 0 11 4.906 11 11s-4.906 11-11 11-11-4.906-11-11 4.906-11 11-11z"
+       fill="#27ae60"
+       id="path2"
+       style="fill:url(#Strips1_1);fill-opacity:1.0" />
+    <path
+       d="m19.877655.28341947-1.447701-1.44770087c-.198601-.1987322-.440059-.2980329-.72385-.2980329-.283922 0-.52538.099301-.723981.2980329l-6.9831965 6.9939107-3.1296731-3.1403871c-.1987322-.1987322-.4400592-.298033-.7238504-.298033-.2839218 0-.5252489.099301-.7239811.298033l-1.4477008 1.4477008c-.1987322.1987322-.298033.4400593-.298033.7239811 0 .2837912.099301.5252489.298033.7238504l3.8535235 3.8535235 1.4478315 1.447701c.1986016.198732.4399286.298033.7238504.298033.2837915 0 .5251185-.09943.7238505-.298033l1.447831-1.447701 7.707047-7.707047c.198602-.1987322.298033-.4400593.298033-.7239811.000131-.28379119-.09943-.52511822-.298033-.72385043z"
+       fill="#fff"
+       id="path4"
+       style="fill:url(#Strips1_1);fill-opacity:1.0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1"
+       id="path2255"
+       fill="#fff"
+       d="m19.877655.28341947-1.447701-1.44770087c-.198601-.1987322-.440059-.2980329-.72385-.2980329-.283922 0-.52538.099301-.723981.2980329l-6.9831965 6.9939107-3.1296731-3.1403871c-.1987322-.1987322-.4400592-.298033-.7238504-.298033-.2839218 0-.5252489.099301-.7239811.298033l-1.4477008 1.4477008c-.1987322.1987322-.298033.4400593-.298033.7239811 0 .2837912.099301.5252489.298033.7238504l3.8535235 3.8535235 1.4478315 1.447701c.1986016.198732.4399286.298033.7238504.298033.2837915 0 .5251185-.09943.7238505-.298033l1.447831-1.447701 7.707047-7.707047c.198602-.1987322.298033-.4400593.298033-.7239811.000131-.28379119-.09943-.52511822-.298033-.72385043z" />
+  </g>
+</svg>
