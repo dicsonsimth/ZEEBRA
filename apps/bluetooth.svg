@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="bluetooth.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1548"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="17.530891"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="197.88585"
+     x2="183.32736"
+     y1="364.75723"
+     y2="12.945999">
+    <stop
+       offset="0"
+       stop-color="#197cf1"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#20bcfa"
+       id="stop4" />
+  </linearGradient>
+  <g
+     transform="translate(-384.57143 -499.798)"
+     id="g17">
+    <ellipse
+       cx="408.57144"
+       cy="524.86047"
+       fill="#fff"
+       fill-rule="evenodd"
+       rx="11.625"
+       ry="17.1875"
+       id="ellipse7" />
+    <g
+       fill="url(#a)"
+       transform="matrix(.12777778 0 0 .12777778 385.57143 500.798)"
+       id="g15">
+      <path
+         d="m180.003 0c-66.28 0-120.003 53.723-120.003 120v120c0 66.277 53.723 120 120.003 120 66.274 0 119.997-53.723 119.997-120v-120c0-66.277-53.723-120-119.997-120zm69.364 224.128c2.705 2.168 4.279 5.448 4.279 8.915s-1.574 6.746-4.279 8.915l-71.652 57.439c-2.067 1.657-4.597 2.511-7.148 2.511-1.68 0-3.369-.371-4.942-1.125-3.961-1.901-6.481-5.906-6.481-10.3v-82.024l-34.182 27.632c-2.114 1.709-4.653 2.541-7.176 2.541-3.331 0-6.634-1.45-8.892-4.243-3.967-4.907-3.204-12.101 1.703-16.068l47.385-38.306-47.385-38.306c-4.907-3.967-5.67-11.161-1.703-16.068 3.967-4.908 11.162-5.669 16.068-1.703l34.182 27.632v-82.051c0-4.394 2.52-8.399 6.481-10.3 3.962-1.901 8.663-1.362 12.091 1.386l71.652 57.441c2.705 2.168 4.279 5.448 4.279 8.914s-1.574 6.746-4.279 8.915l-55.046 44.125z"
+         id="path9"
+         style="fill:url(#Strips1_1);fill-opacity:1.0" />
+      <path
+         d="m223.954 126.959-41.96-33.638v67.275z"
+         id="path11"
+         style="fill:#b3b3b3" />
+      <path
+         d="m223.954 233.042-41.96-33.638v67.275z"
+         id="path13"
+         style="fill:#999999" />
+    </g>
+  </g>
+</svg>

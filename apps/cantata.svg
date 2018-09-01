@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="cantata.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1549"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="7.6369601"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg20" />
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#178b6f"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#489acf"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="24.757139967029"
+     x2="24.742010338091"
+     y1="9.403126467374"
+     y2="38.824092541861">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#e8e8e9"
+       id="stop9" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="418.53583"
+     x2="418.53583"
+     xlink:href="#a"
+     y1="544.31494"
+     y2="498.77271" />
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="422.74817"
+     x2="422.41241"
+     xlink:href="#a"
+     y1="544.88617"
+     y2="500.74371" />
+  <g
+     transform="matrix(1.0688688 0 0 1.0688688 -2.206524 -1.384961)"
+     id="g18"
+     style="fill:url(#Strips1_1);fill-opacity:1.0">
+    <circle
+       cx="458.07248"
+       cy="525.64166"
+       fill="url(#d)"
+       r="19.216921"
+       stroke="url(#c)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.791483"
+       transform="matrix(1.116393496884 0 0 1.116393496884 -486.802840970476 -562.973458438028)"
+       id="circle14"
+       style="fill:url(#Strips1_1);fill-opacity:1.0" />
+    <path
+       d="m24.757139 9.4031262 2.2042.7347338s.912677 2.808346 1.64741 3.543079c1.161715 1.161716 5.699923 3.804254 5.699923 9.68212 0 4.408401-2.938933 7.347334-6.6126 9.551534 3.673667-3.673667 5.143134-5.143133 5.143134-9.551534 0-5.877866-5.877867-6.6126-5.877867-6.6126v15.999106c0 1.634494-1.540625 4.348043-4.055043 5.392419-3.187132 1.320465-6.52646.566754-7.45783-1.683286-.931033-2.249192.896671-5.142041 4.082648-6.461921 1.903707-.788785 3.690919-.969738 5.226025-.306687z"
+       fill="url(#b)"
+       fill-rule="evenodd"
+       id="path16"
+       style="fill:#b3b3b3;fill-opacity:1" />
+  </g>
+</svg>
